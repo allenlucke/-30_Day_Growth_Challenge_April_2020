@@ -1,11 +1,11 @@
 # 30_Day_Growth_Challenge_March_2020
 
 ### Overview
-This is a personal changelog of my updates. Not everything is code. Note that this log is starting as of March 2nd, 2020 and it not a full description of what I have read and courses I have taken. 
+This is a personal changelog of my updates. Not everything is code. Note that this log is starting as of April 1st, 2020 and it not a full description of what I have read and courses I have taken. 
 
 ### Main Categories
 - 💻- Code - Building / Learning
-- 📚- Reading
+- 📚- Reading/Learning
 
 ### Goals
 - 💻- Code - Building or Learning

@@ -18,3 +18,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Thursday, April 2nd
 - 💻- Code - https://github.com/allenlucke/color-blocks-two
+
+#### Friday, April 3rd
+- 💻- Code - https://github.com/allenlucke/java-react-postgres-to-do-list

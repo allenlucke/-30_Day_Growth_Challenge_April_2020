@@ -47,4 +47,4 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 - 💻- Code - https://github.com/allenlucke/springboot-pg-react-to-do
 
 ### Saturday, April 11th && Sunday, April 10th
--- No Code, celebrating Easter holiday with family.
+- No Code, celebrating Easter holiday with family.

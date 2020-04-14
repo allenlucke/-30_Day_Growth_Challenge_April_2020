@@ -51,3 +51,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Monday, April 13th
 - 💻- Code - https://github.com/allenlucke/springboot-pg-react-to-do
+
+#### Tuesday, April 14th
+- 💻- Code - https://github.com/allenlucke/springboot-pg-react-to-do

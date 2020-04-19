@@ -68,3 +68,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Saturday, April 18th
 - 💻- Code - https://github.com/allenlucke/springboot-pg-react-to-do
+
+#### Sunday, April 19th
+- 💻- Code - https://github.com/allenlucke/hangman-java

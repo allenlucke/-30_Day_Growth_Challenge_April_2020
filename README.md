@@ -84,3 +84,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Thursday, April 23rd
 - 💻- Code - https://github.com/allenlucke/learning-java
+
+#### Friday, April 24th
+- 💻- Code - https://github.com/allenlucke/learning-java

@@ -90,3 +90,6 @@ This is a personal changelog of my updates. Not everything is code. Note that th
 
 #### Monday, April 27th
 - 💻- Code - https://github.com/allenlucke/learning-java
+
+#### Wednesday, April 29th
+- 💻- Code - https://github.com/allenlucke/java-unittesting-vendingmachine
